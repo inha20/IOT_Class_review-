@@ -1,1 +1,1 @@
-# IOT_Class_review-
+학습 내용 정리는 Issues에 정리되어있습니다.
